@@ -1,2 +1,3 @@
-# projeto-social
- Projeto mostrando a interface de iframes com redes sociais
+# Social Project
+
+## A project showcasing an interface with iframes for social media integration.
